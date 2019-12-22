@@ -1,0 +1,15 @@
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\ServicoEstoque.dll.config
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\ServicoEstoque.dll
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\ServicoEstoque.pdb
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EntityFramework.dll
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EntityFramework.SqlServer.dll
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EstoqueEntityModel.dll
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EstoqueEntityModel.pdb
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EstoqueEntityModel.dll.config
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EntityFramework.xml
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\bin\EntityFramework.SqlServer.xml
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\obj\Debug\ServicoEstoque.csprojAssemblyReference.cache
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CopyComplete
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\obj\Debug\ServicoEstoque.dll
+C:\Users\lcarl\OneDrive\Documents\PosGraduacao\DM 113 (WCF - .NET)\Trabalho-DM113\ServicoEstoque\obj\Debug\ServicoEstoque.pdb
